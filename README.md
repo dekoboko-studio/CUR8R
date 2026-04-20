@@ -16,7 +16,9 @@ Unzip and run — no installation required.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+| Dark mode | Light mode |
+|-----------|------------|
+| ![Dark mode](screenshots/App-dark-mode.jpg) | ![Light mode](screenshots/App-light-mode.jpg) |
 
 ---
 
