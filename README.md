@@ -1,6 +1,6 @@
 # CUR8R Media Manager
 
-![Version](https://img.shields.io/github/v/release/gazzizza/MediaManager?label=version&color=orange) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/github/v/release/dekoboko-studio/CUR8R?label=version&color=orange) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
 A lightweight desktop application for organizing, browsing, and tagging your media collection. Scans folders, generates thumbnails, and lets you manage images, videos, and audio files from a single interface.
 
