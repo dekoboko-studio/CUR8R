@@ -1,8 +1,17 @@
 # CUR8R Media Manager
 
-![Version](https://img.shields.io/badge/version-0.5.1-orange) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/github/v/release/gazzizza/MediaManager?label=version&color=orange) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
 A lightweight desktop application for organizing, browsing, and tagging your media collection. Scans folders, generates thumbnails, and lets you manage images, videos, and audio files from a single interface.
+
+## Features
+
+- Scan local folders and index media files into a SQLite library
+- Generate and cache thumbnails for images, videos, and audio
+- Browse and filter your library through a dark-themed Qt6 UI
+- Tag and bulk-edit media metadata
+- Export metadata via ExifTool
+- CLI mode for headless/scripted use
 
 ---
 
